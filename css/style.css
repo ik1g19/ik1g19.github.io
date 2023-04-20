@@ -58,7 +58,7 @@ body {
     left: -100px;
     transform: translateX(0);
     animation: move-element 20s linear infinite;
-    animation-delay: 1s;
+    animation-delay: 10s;
 }
 
 @keyframes move-element {
